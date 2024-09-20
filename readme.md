@@ -6,7 +6,7 @@ Un proyecto de WebScraping
 
 Instalar selenium
 ```bash
-pip install selenium
+pip install selenium pandas openpyxl
 ```
 
 ## Uso
@@ -25,7 +25,7 @@ luego extraerlo.
 
 Ahora ejecutas el programa:
 
-![UI](/ui.png)
+![UI](https://raw.githubusercontent.com/RaphaelWMR/WebScrappingPBI/refs/heads/master/ui.PNG)
 
 En el campo  de la ruta del gekko driver, seleccionar la ruta del geckodriver.exe
 
